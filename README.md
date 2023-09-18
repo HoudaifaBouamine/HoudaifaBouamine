@@ -1,4 +1,5 @@
 
+
 ## Activity Graph 📊 :
 
 <br>
@@ -23,6 +24,7 @@
 <br>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HoudaifaBouamine)](https://github.com/HoudaifaBouamine/github-profile-trophy)
+
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=HoudaifaBouamine&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <br>
