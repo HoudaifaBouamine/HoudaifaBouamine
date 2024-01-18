@@ -1,12 +1,3 @@
-
-
-## Activity Graph :
-
-<br>
-
-
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HoudaifaBouamine&bg_color=fffff&color=116fb8&line=8c234a&point=85113c&area=true&hide_border=true)](https://github.com/HoudaifaBouamine/github-readme-activity-graph)
-
 ## GitHub Stats :
 
 <br>
